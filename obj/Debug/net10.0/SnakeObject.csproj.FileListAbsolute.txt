@@ -1,0 +1,14 @@
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.AssemblyInfoInputs.cache
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.AssemblyInfo.cs
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.csproj.CoreCompileInputs.cache
+C:\dev\c-sharp\SnakeObject\bin\Debug\net10.0\SnakeObject.exe
+C:\dev\c-sharp\SnakeObject\bin\Debug\net10.0\SnakeObject.deps.json
+C:\dev\c-sharp\SnakeObject\bin\Debug\net10.0\SnakeObject.runtimeconfig.json
+C:\dev\c-sharp\SnakeObject\bin\Debug\net10.0\SnakeObject.dll
+C:\dev\c-sharp\SnakeObject\bin\Debug\net10.0\SnakeObject.pdb
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.dll
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\refint\SnakeObject.dll
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.pdb
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\SnakeObject.genruntimeconfig.cache
+C:\dev\c-sharp\SnakeObject\obj\Debug\net10.0\ref\SnakeObject.dll
